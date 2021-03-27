@@ -1,5 +1,7 @@
 # Intermediate Java Lesson 7: Homework
 
+[![Test Homework](https://github.com/tilmans/oop1-homework/actions/workflows/test.yml/badge.svg)](https://github.com/tilmans/oop1-homework/actions/workflows/test.yml)
+
 You want to go to the bank and open an account. You want to be able to transfer money, 
 deposit money, withdraw money. When you transfer/withdraw the sum you have in 
 your account can never go under 0 EUR. You want to keep track of your transactions 
